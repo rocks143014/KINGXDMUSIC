@@ -1,4 +1,4 @@
-PING_COMMAND : ["ping", "alive"]
+PING_COMMAND : ["ping", "alive", "shiv"]
 START_COMMAND : ["start", "mstart"]
 HELP_COMMAND : ["help", "mhelp"]
 SETTINGS_COMMAND : ["settings", "setting"]
