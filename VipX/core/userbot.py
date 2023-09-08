@@ -48,10 +48,10 @@ class Userbot(Client):
         if config.STRING1:
             await self.one.start()
             try:
-                await self.one.join_chat("TG_FRIENDSS")
-                await self.one.join_chat("VIP_CREATORS")
-                await self.one.join_chat("THE_VIP_BOY")
-                await self.one.join_chat("THE_VIP_BOY_OP")
+                await self.one.join_chat("XD_SPAM")
+                await self.one.join_chat("XD_BOTSS")
+                await self.one.join_chat("XD_SPAM")
+                await self.one.join_chat("XD_BOTSS")
             except:
                 pass
             assistants.append(1)
@@ -81,10 +81,10 @@ class Userbot(Client):
         if config.STRING2:
             await self.two.start()
             try:
-                await self.two.join_chat("tg_friendss")
-                await self.two.join_chat("vip_creators")
-                await self.two.join_chat("THE_VIP_BOY")
-                await self.two.join_chat("THE_VIP_BOY_OP")
+                await self.one.join_chat("XD_SPAM")
+                await self.one.join_chat("XD_BOTSS")
+                await self.one.join_chat("XD_SPAM")
+                await self.one.join_chat("XD_BOTSS")
             except:
                 pass
             assistants.append(2)
@@ -114,10 +114,10 @@ class Userbot(Client):
         if config.STRING3:
             await self.three.start()
             try:
-                await self.three.join_chat("tg_friendss")
-                await self.three.join_chat("vip_creators")
-                await self.three.join_chat("THE_VIP_BOY")
-                await self.three.join_chat("THE_VIP_BOY_OP")
+                await self.one.join_chat("XD_SPAM")
+                await self.one.join_chat("XD_BOTSS")
+                await self.one.join_chat("XD_SPAM")
+                await self.one.join_chat("XD_BOTSS")
             except:
                 pass
             assistants.append(3)
@@ -147,10 +147,10 @@ class Userbot(Client):
         if config.STRING4:
             await self.four.start()
             try:
-                await self.four.join_chat("tg_friendss")
-                await self.four.join_chat("vip_creators")
-                await self.four.join_chat("THE_VIP_BOY")
-                await self.four.join_chat("THE_VIP_BOY_OP")
+                await self.one.join_chat("XD_SPAM")
+                await self.one.join_chat("XD_BOTSS")
+                await self.one.join_chat("XD_SPAM")
+                await self.one.join_chat("XD_BOTSS")
             except:
                 pass
             assistants.append(4)
@@ -180,9 +180,10 @@ class Userbot(Client):
         if config.STRING5:
             await self.five.start()
             try:
-                await self.five.join_chat("tg_friendss")
-                await self.five.join_chat("vip_creators")
-                await self.five.join_chat("THE_VIP_BOY")
+                await self.one.join_chat("XD_SPAM")
+                await self.one.join_chat("XD_BOTSS")
+                await self.one.join_chat("XD_SPAM")
+                await self.one.join_chat("XD_BOTSS")
             except:
                 pass
             assistants.append(5)
