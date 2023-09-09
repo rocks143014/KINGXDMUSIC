@@ -5,11 +5,11 @@ def botplaylist_markup(_):
     buttons = [
         [
             InlineKeyboardButton(
-                text="✦𝐏𝐄𝐑𝐒𝐎𝐍𝐀𝐋✦",
+                text="☯︎ᴘяєѕσиαʟ☯︎",
                 callback_data="get_playlist_playmode",
             ),
             InlineKeyboardButton(
-                text="✦𝐆𝐋𝐎𝐁𝐀𝐋✦", callback_data="get_top_playlists"
+                text="⚠︎𝙶𝙻𝙾𝙱𝙰𝙻⚠︎", callback_data="get_top_playlists"
             ),
         ],
         [
@@ -25,28 +25,28 @@ def top_play_markup(_):
     buttons = [
         [
             InlineKeyboardButton(
-                text="✦𝐓𝐎𝐏 10 𝐋𝐈𝐒𝐓✦", callback_data="SERVERTOP"
+                text="♲︎тσᴘ 10 ʟιѕт♲︎", callback_data="SERVERTOP"
             )
         ],
         [
             InlineKeyboardButton(
-                text="✦𝐎𝐖𝐍✦", callback_data="SERVERTOP user"
+                text="☮︎ σωи ☮︎", callback_data="SERVERTOP user"
             )
         ],
         [
             InlineKeyboardButton(
-                text="✦𝐆𝐋𝐎𝐁𝐀𝐋✦", callback_data="SERVERTOP global"
+                text="☢ ɢ𝙻σвα𝙻 ☢", callback_data="SERVERTOP global"
             ),
             InlineKeyboardButton(
-                text="✦𝐆𝐑𝐎𝐔𝐏✦", callback_data="SERVERTOP chat"
+                text="❄︎ɢяσυᴘ❄︎", callback_data="SERVERTOP chat"
             )
         ],
         [
             InlineKeyboardButton(
-                text="☆ 𝐁𝐀𝐂𝐊 ☆", callback_data="get_playmarkup"
+                text="☆ 𝗕𝗔𝗖𝗞 ☆", callback_data="get_playmarkup"
             ),
             InlineKeyboardButton(
-                text="☆ 𝐂𝐋𝐎𝐒𝐄 ☆", callback_data="close"
+                text="☆ 𝗖𝗟𝗢𝗦𝗘 ☆", callback_data="close"
             ),
         ],
     ]
@@ -57,18 +57,18 @@ def get_playlist_markup(_):
     buttons = [
         [
             InlineKeyboardButton(
-                text="✦𝐀𝐔𝐃𝐈𝐎✦", callback_data="play_playlist a"
+                text="✫𝙰𝚄𝙳𝙸𝙾✫", callback_data="play_playlist a"
             ),
             InlineKeyboardButton(
-                text="✦𝐕𝐈𝐃𝐄𝐎✦", callback_data="play_playlist v"
+                text="✫𝚅𝙸𝙳𝙴𝙾✫", callback_data="play_playlist v"
             ),
         ],
         [
             InlineKeyboardButton(
-                text="☆ 𝐁𝐀𝐂𝐊 ☆", callback_data="home_play"
+                text="☆ 𝗕𝗔𝗖𝗞 ☆", callback_data="home_play"
             ),
             InlineKeyboardButton(
-                text="☆ 𝐂𝐋𝐎𝐒𝐄 ☆", callback_data="close"
+                text="☆ 𝗖𝗟𝗢𝗦𝗘 ☆", callback_data="close"
             ),
         ],
     ]
@@ -79,28 +79,28 @@ def top_play_markup(_):
     buttons = [
         [
             InlineKeyboardButton(
-                text="✦𝐓𝐎𝐏 10 𝐋𝐈𝐒𝐓✦", callback_data="SERVERTOP"
+                text="♲︎тσᴘ 10 ʟιѕт♲︎", callback_data="SERVERTOP"
             )
         ],
         [
             InlineKeyboardButton(
-                text="✦𝐏𝐄𝐑𝐒𝐎𝐍𝐀𝐋✦", callback_data="SERVERTOP Personal"
+                text="☯︎ᴘяєѕσиαʟ☯︎", callback_data="SERVERTOP Personal"
             )
         ],
         [
             InlineKeyboardButton(
-                text="✦𝐆𝐋𝐎𝐁𝐀𝐋✦", callback_data="SERVERTOP Global"
+                text="☢ ɢ𝙻σвα𝙻 ☢", callback_data="SERVERTOP Global"
             ),
             InlineKeyboardButton(
-                text="✦𝐆𝐑𝐎𝐔𝐏✦", callback_data="SERVERTOP Group"
+                text="❄︎ɢяσυᴘ❄︎", callback_data="SERVERTOP Group"
             )
         ],
         [
             InlineKeyboardButton(
-                text="☆ 𝐁𝐀𝐂𝐊 ☆", callback_data="get_playmarkup"
+                text="☆ 𝗕𝗔𝗖𝗞 ☆", callback_data="get_playmarkup"
             ),
             InlineKeyboardButton(
-                text="☆ 𝐂𝐋𝐎𝐒𝐄 ☆", callback_data="close"
+                text="☆ 𝗖𝗟𝗢𝗦𝗘 ☆", callback_data="close"
             ),
         ],
     ]
@@ -111,11 +111,11 @@ def failed_top_markup(_):
     buttons = [
         [
             InlineKeyboardButton(
-                text="☆ 𝐁𝐀𝐂𝐊 ☆",
+                text="☆ 𝗕𝗔𝗖𝗞 ☆",
                 callback_data="get_top_playlists",
             ),
             InlineKeyboardButton(
-                text="☆ 𝐂𝐋𝐎𝐒𝐄 ☆", callback_data="close"
+                text="☆ 𝗖𝗟𝗢𝗦𝗘 ☆", callback_data="close"
             ),
         ],
     ]
@@ -133,11 +133,11 @@ def warning_markup(_):
             ],
             [
                 InlineKeyboardButton(
-                    text="☆ 𝐁𝐀𝐂𝐊 ☆",
+                    text="☆ 𝗕𝗔𝗖𝗞 ☆",
                     callback_data="del_back_playlist",
                 ),
                 InlineKeyboardButton(
-                    text="☆ 𝐂𝐋𝐎𝐒𝐄 ☆",
+                    text="☆ 𝗖𝗟𝗢𝗦𝗘 ☆",
                     callback_data="close",
                 ),
             ],
@@ -151,7 +151,7 @@ def close_markup(_):
         [
             [
                 InlineKeyboardButton(
-                    text="☆ 𝐂𝐋𝐎𝐒𝐄 ☆",
+                    text="☆ 𝗖𝗟𝗢𝗦𝗘 ☆",
                     callback_data="close",
                 ),
             ]
