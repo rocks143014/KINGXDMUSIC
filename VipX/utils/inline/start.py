@@ -19,11 +19,11 @@ def start_pannel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
         ],
         [
             InlineKeyboardButton(
-                text="🦋𝐅𝐄𝐀𝐓𝐔𝐑𝐄🦋",
+                text="ғᴇᴀᴛᴜʀᴇ ",
                 callback_data="settings_back_helper",
             ),
             InlineKeyboardButton(
-                text="⚙️𝐒𝐄𝐓𝐓𝐈𝐍𝐆⚙️", callback_data="settings_helper"
+                text="⚙️ 𝚂𝙴𝚃𝚃𝙸𝙽𝙶 ⚙️", callback_data="settings_helper"
             ),
         ],
      ]
