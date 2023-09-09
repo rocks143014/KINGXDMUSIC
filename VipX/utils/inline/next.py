@@ -18,7 +18,7 @@ def next_pannel(_, START: Union[bool, int] = None):
             text=_["CLOSEMENU_BUTTON"], callback_data=f"close"
         ),
         InlineKeyboardButton(
-            text="★ ηєϰᴛ ★", callback_data="settings_back_helper"
+            text="🤫 ηєϰᴛ 🤫", callback_data="settings_back_helper"
         ),
     ]
     mark = second if START else first
@@ -26,59 +26,59 @@ def next_pannel(_, START: Union[bool, int] = None):
         [
             [
                 InlineKeyboardButton(
-                    text="αԃɱιɳ",
+                    text="🥰αᴅмιи🥰",
                     callback_data="help_callback hb1",
                 ),
                 InlineKeyboardButton(
-                    text="αυƭɦ",
+                    text="😛αυтн😛",
                     callback_data="help_callback hb2",
                 ),
             
                 InlineKeyboardButton(
-                    text="вℓσ¢к",
+                    text="😡вℓσᴄк😡",
                     callback_data="help_callback hb3",
                 ),
             ],
             [
                 InlineKeyboardButton(
-                    text="ɠ¢αʂƭ",
+                    text="💀ɢᴄαѕт💀",
                     callback_data="help_callback hb4",
                 ),
                 InlineKeyboardButton(
-                    text="ɠɓαɳ",
+                    text="😈ɢвαи😈",
                     callback_data="help_callback hb12",
                 ),
                 InlineKeyboardButton(
-                    text="ℓყɾเ¢ʂ",
+                    text="🥵ʟуяιᴄs🥵",
                     callback_data="help_callback hb5",
                 ),
             ],
             [
                 InlineKeyboardButton(
-                    text="քℓαყℓเʂƭ🎙",
+                    text="🥶ᴘʟαʏʟιѕт🥶",
                     callback_data="help_callback hb6",
                 ),
                 InlineKeyboardButton(
-                    text="ѵσเ¢ε-¢ɦαƭ",
+                    text="😎νσι𝙲𝙴-𝙲нαт😎",
                     callback_data="help_callback hb10",
                 ),
             ],
             [
            
                 InlineKeyboardButton(
-                    text="ρℓαყ",
+                    text="🤫𝐏𝐋𝐀𝐘🤫",
                     callback_data="help_callback hb8",
                 ),
             
             
                 InlineKeyboardButton(
-                    text="ʂ𝖚∂σ",
+                    text="😮𝐒𝐔𝐃𝐎😮",
                     callback_data="help_callback hb9",
                 ),
             ],
             [
                 InlineKeyboardButton(
-                    text="⚜SƬΛᏒƬ⚜",
+                    text="😝ѕтαят😝",
                     callback_data="help_callback hb11",
                 ),
             ],
@@ -100,7 +100,7 @@ def next_back_markup(_):
                     text=_["CLOSE_BUTTON"], callback_data=f"close"
                 ),
                 InlineKeyboardButton(
-                    text="★ ηєϰᴛ ★", callback_data="settings_back_helper"
+                    text="😶 ηєϰᴛ 😶", callback_data="settings_back_helper"
                 )
 
             ]
@@ -113,7 +113,7 @@ def private_help_panel(_):
     buttons = [
         [
             InlineKeyboardButton(
-                text="🎭 𝐇𝐄𝐋𝐏 🎭",
+                text="😇 𝙷𝙴𝙻𝙿 😇",
                 callback_data="settings_back_helper",
             ),
         ],
