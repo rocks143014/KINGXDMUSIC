@@ -39,26 +39,26 @@
       },
       "STRING_SESSION": {
         "description": "𝐅𝐈𝐋𝐋 𝐇𝐄𝐑𝐄 𝐀 𝐒𝐈𝐌𝐏𝐋𝐄 𝐏𝐘𝐑𝐎𝐆𝐑𝐀𝐌 𝐒𝐓𝐑𝐈𝐍𝐆 𝐒𝐄𝐒𝐒𝐈𝐎𝐍, 𝐈𝐅 𝐄𝐑𝐑𝐎𝐑 𝐓𝐇𝐄𝐍 𝐒𝐄𝐍𝐃 𝐄𝐑𝐑𝐎𝐑 𝐒𝐒 𝐓𝐎 𝐑𝐄𝐏𝐎 𝐎𝐖𝐍𝐄𝐑.( 𝐆𝐄𝐓 𝐅𝐑𝐎𝐌 = t.me/VIP_STRING_ROBOT ) . ",
-        "value": "",
+        "value": "BQAi15zzTJnzViATq3d6kuQw9sl58Jc9JirlWgbQLLqEXSUx0j5clMlPKUnzvY7Bxv-SSvxGjsjlzBoV95zHaha_CEAsFVBKMnQZsnPT8MthOA9cuuu-SvPV1SyNDwrF6NQTkfrCC89VKO15tlehIt-ijsjd1yRh7a94alORHUi3A0p45T03RseiV42KyO9vifswlk5tkGo6gZfq_zfuycrBrNOWkslvyoSGgJ440uuPN_Oc3oBjd4FX7LnawO5jJGNBzINu9a-Rre2v1YusI64l2Vx8l6dUhJydOGCnktJ_wOqnfRiYgkUBPfde6Ny5BxLbSf0_2h4hEyUYSGrIIz8oAAAAAX7OqvEA",
         "required": true
       },
       "HEROKU_API_KEY": {
         "description": "𝐅𝐈𝐋𝐋 𝐇𝐄𝐑𝐄 𝐘𝐎𝐔𝐑 𝐇𝐄𝐑𝐎𝐊𝐔 𝐀𝐂𝐂. 𝐀𝐏𝐈 𝐊𝐄𝐘, 𝐈𝐅 𝐃𝐎𝐍𝐓 𝐊𝐍𝐎𝐖 𝐓𝐇𝐈𝐒 𝐓𝐇𝐄𝐍 𝐋𝐄𝐀𝐕𝐄 𝐓𝐇𝐈𝐒 𝐋𝐈𝐍𝐄 𝐁𝐋𝐀𝐍𝐊",
         "value": "f1fb6dc3-200c-42ad-b51b-577385e3ead1",
-        "required": false
+        "required": true
       },
       "HEROKU_APP_NAME": {
         "description": "𝐅𝐈𝐋𝐋 𝐇𝐄𝐑𝐄 𝐘𝐎𝐔𝐑 𝐀𝐏𝐏 𝐍𝐀𝐌𝐄 𝐖𝐇𝐈𝐂𝐇 𝐅𝐈𝐋𝐋𝐄𝐃 𝐈𝐍 𝐘𝐎𝐈𝐑 𝐅𝐈𝐑𝐒𝐓 𝐋𝐈𝐍𝐄 (𝐀𝐏𝐏 𝐍𝐀𝐌𝐄).",
         "value": "rocks",
-        "required": false
+        "required": true
       },
        "GROUP_USERNAME": {
 
        "description": "𝐅𝐈𝐋𝐋 𝐇𝐄𝐑𝐄 𝐘𝐎𝐔𝐑 𝐆𝐑𝐎𝐔𝐏 𝐔𝐒𝐄𝐑𝐍𝐀𝐌𝐄 ( 𝗪𝗜𝗧𝗛𝗢𝗨𝗧 @ ) , {𝐈𝐅 𝐆𝐑𝐎𝐔𝐏 𝐈𝐒 𝐏𝐑𝐈𝐕𝐀𝐓𝐄 𝐓𝐇𝐄𝐍 𝐅𝐈𝐋𝐋 𝐀𝐅𝐓𝐄𝐑 (https://t.me/) 𝐏𝐚𝐫𝐭𝐬, 𝐋𝐢𝐤𝐞+85vaorE-w8VkYTBl) ",
 
-       "value": "https://t.me/+fJ4YZGPYR9U4NDFl",
+       "value": "https://t.me/XD_SUPORT",
 
-       "required": false
+       "required": true
 
       },
       "CHANNEL_USERNAME": {
@@ -67,13 +67,13 @@
 
        "value": "https://t.me/XD_BOTSS",
 
-       "required": false
+       "required": true
 
       },
       "START_IMG_URL": {
         "description": "𝐅𝐈𝐋𝐋 𝐇𝐄𝐑𝐄 𝐘𝐎𝐔𝐑 𝐒𝐓𝐀𝐑𝐓 𝐁𝐎𝐓 𝐈𝐌𝐀𝐆𝐄 𝐔𝐑𝐋, 𝐆𝐄𝐓 𝐈𝐓 𝐅𝐑𝐎𝐌 ;- t.me/vTelegraphBot",
         "value": "https://graph.org/file/12920ccce6f3ccb9f8cef.jpg",
-        "required": false
+        "required": true
       },
       "LOG_GROUP_ID": {
         "description": "𝐅𝐈𝐋𝐋 𝐇𝐄𝐑𝐄 𝐋𝐎𝐆 𝐆𝐑𝐎𝐔𝐏 𝐈𝐃 𝐖𝐇𝐄𝐑𝐄 𝐘𝐎𝐔𝐑 𝐁𝐎𝐓 𝐀𝐋𝐖𝐀𝐘𝐒 𝐒𝐓𝐀𝐘 𝐀𝐃𝐌𝐈𝐍 (𝐈𝐃 𝐌𝐔𝐒𝐓 𝐒𝐓𝐀𝐑𝐓𝐄𝐃 𝐖𝐈𝐓𝐇 -100).",
@@ -89,7 +89,7 @@
               "url": "heroku/nodejs"
           },
           {
-              "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
+              "url": "https://github.com/rocks143014/heroku-buildpack-ffmpeg-latest.git"
           }
       ],
       "formation": {
