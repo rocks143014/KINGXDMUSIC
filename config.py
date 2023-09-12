@@ -8,14 +8,14 @@ from pyrogram import filters
 load_dotenv()
 
 # Get it from my.telegram.org
-API_ID = int(getenv("API_ID", ""))
-API_HASH = getenv("API_HASH", "")
+API_ID = int(getenv("API_ID", "21354902"))
+API_HASH = getenv("API_HASH", "615f09532b468267e4c3e46ac03e0373")
 
 ## Get it from @Botfather in Telegram.
-BOT_TOKEN = getenv("BOT_TOKEN", "")
+BOT_TOKEN = getenv("BOT_TOKEN", "5981079437:AAG7APlRlA86M6VRjpxoCmNTxWLBfFrhmCs")
 
 # Database to save your chats and stats... Get MongoDB:-  
-MONGO_DB_URI = getenv("MONGO_DB_URI", "")
+MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://Abhiop:Abhiop@cluster0.upnacnf.mongodb.net/?retryWrites=true&w=majority")
 
 # Custom max audio(music) duration for voice chat. set DURATION_LIMIT in variables with your own time(mins), Default to 60 mins.
 DURATION_LIMIT_MIN = int(
@@ -28,18 +28,18 @@ SONG_DOWNLOAD_DURATION = int(
 )  # Remember to give value in Minutes
 
 # You'll need a Private Group ID for this.
-LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", ""))
+LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", "-1001885729197"))
 
 # A name for your Music bot,𝐀𝐥𝐥 𝐃𝐞𝐬𝐢𝐠𝐧 𝐍𝐚𝐦𝐞 𝐒𝐮𝐩𝐩𝐨𝐫𝐭𝐞𝐝.
-MUSIC_BOT_NAME = "˹ 𝐃ɳѕ x 𝐌υѕιƈ ˼"
+MUSIC_BOT_NAME = "˹ ダ ᴍᴜsɪᴄ 🥀 ˼"
 
 # Your User ID.
 OWNER_ID = list(
-    map(int, getenv("OWNER_ID", "").split())
+    map(int, getenv("OWNER_ID", "6545714937").split())
 )  # Input type must be interger
 
-GROUP_USERNAME = getenv("GROUP_USERNAME")
-CHANNEL_USERNAME = getenv("CHANNEL_USERNAME")
+GROUP_USERNAME = getenv("XD_SUPORT")
+CHANNEL_USERNAME = getenv("XD_BOTSS")
 # Fill your group and channel username (without @)
 # If your group and channel is private then fill like this:-  +GepTJkDUaiA5NmRl  , except (https://t.me/)
 
@@ -96,7 +96,7 @@ YOUTUBE_DOWNLOAD_EDIT_SLEEP = int(getenv("YOUTUBE_EDIT_SLEEP", "3"))
 TELEGRAM_DOWNLOAD_EDIT_SLEEP = int(getenv("TELEGRAM_EDIT_SLEEP", "5"))
 
 # Your Github Repo.. Will be shown on /start Command
-GITHUB_REPO = getenv("GITHUB_REPO", "https://github.com/rocks143014/XD_MUSIC")
+GITHUB_REPO = getenv("GITHUB_REPO", "https://graph.org/file/09fba728f5a3c4acb7c28.mp4")
 
 # Spotify Client.. Get it from https://developer.spotify.com/dashboard
 SPOTIFY_CLIENT_ID = getenv("SPOTIFY_CLIENT_ID", "19609edb1b9f4ed7be0c8c1342039362")
@@ -155,7 +155,7 @@ STRING5 = getenv("STRING_SESSION5", None)
 BANNED_USERS = filters.user()
 YTDOWNLOADER = 1
 LOG = 2
-LOG_FILE_NAME = "VIPlogs.txt"
+LOG_FILE_NAME = "XDlogs.txt"
 adminlist = {}
 lyrical = {}
 chatstats = {}
