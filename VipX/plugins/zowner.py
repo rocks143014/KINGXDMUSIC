@@ -128,7 +128,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🌱ƨσʋяcɛ🌱", url=f"https://github.com/rocks143014/XD_MUSIC/")
+                        "🌱ƨσʋяcɛ🌱", url=f"https://t.me/N91Ab/6")
                 ]
             ]
         ),
@@ -146,7 +146,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🌱ƨσʋяcɛ🌱", url=f"https://github.com/rocks143014/XD_MUSIC/")
+                        "🌱ƨσʋяcɛ🌱", url=f"https://t.me/N91Ab/6")
                 ]
             ]
         ),
@@ -164,7 +164,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🌱ƨσʋяcɛ🌱", url=f"https://github.com/rocks143014/XD_MUSIC/")
+                        "🌱ƨσʋяcɛ🌱", url=f"https://t.me/N91Ab/6")
                 ]
             ]
         ),
