@@ -45,7 +45,7 @@ GBAN_COMMAND = get_command("GBAN_COMMAND")
     & ~filters.edited & filters.group & ~filters.edited)
 async def help(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://graph.org/file/147b45b43a964e146fa9b.jpg",
+        photo=f"https://graph.org/file/90c3458d31d6fe50567f6.jpg",
         caption=f"""🍁ᴄʟɪᴄᴋ ᴛʜᴇ ʙᴇʟᴏᴡ ʙᴜᴛᴛᴏɴ ᴛᴏ ᴄᴏɴᴛᴇᴄᴛ ᴏᴡɴᴇʀ🍁""",
         reply_markup=InlineKeyboardMarkup(
             [
@@ -63,7 +63,7 @@ async def help(client: Client, message: Message):
     & ~filters.edited & filters.private & ~filters.edited)
 async def help(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://graph.org/file/3a2b010905848b0a27afc.jpg",
+        photo=f"https://graph.org/file/90c3458d31d6fe50567f6.jpg",
         caption=f"""**◈ 𝐓𝙷𝙸𝚂 𝐂𝙾𝙼𝙼𝙰𝙽𝙳 𝐈𝚂 𝐎𝙽𝙻𝚈 𝐅𝙾𝚁 𝐒𝚄𝙳𝙾 𝐔𝚂𝙴𝚁𝚂 𝐁𝙰𝙱𝚈..**""",
         reply_markup=InlineKeyboardMarkup(
             [
@@ -81,7 +81,7 @@ async def help(client: Client, message: Message):
     & ~filters.edited & filters.group & ~filters.edited)
 async def help(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://graph.org/file/66aa80c1153a20238e974.jpg",
+        photo=f"https://graph.org/file/90c3458d31d6fe50567f6.jpg",
         caption=f"""**◈ 𝐓𝙷𝙸𝚂 𝐂𝙾𝙼𝙼𝙰𝙽𝙳 𝐈𝚂 𝐎𝙽𝙻𝚈 𝐅𝙾𝚁 𝐒𝚄𝙳𝙾 𝐔𝚂𝙴𝚁𝚂 𝐁𝙰𝙱𝚈..**""",
         reply_markup=InlineKeyboardMarkup(
             [
@@ -99,7 +99,7 @@ async def help(client: Client, message: Message):
     & ~filters.edited & filters.private & ~filters.edited)
 async def help(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://graph.org/file/66aa80c1153a20238e974.jpg",
+        photo=f"https://graph.org/file/f2ab47e576874793dcd93.jpg",
         caption=f"""🍁ᴄʟɪᴄᴋ ᴛʜᴇ ʙᴇʟᴏᴡ ʙᴜᴛᴛᴏɴ ᴛᴏ ᴄᴏɴᴛᴇᴄᴛ ᴏᴡɴᴇʀ🍁""",
         reply_markup=InlineKeyboardMarkup(
             [
