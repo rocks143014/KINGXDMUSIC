@@ -1,7 +1,7 @@
 {
     "name": "🌹⃝𖣔𝐗𝐃 𝐌𝐔𝐒𝐈𝐂🥀⛦⃕‌🇮🇳",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://graph.org/file/66aa80c1153a20238e974.jpg",
+    "logo": "https://graph.org/file/ddda07c2e693130746079.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -14,17 +14,17 @@
     "env": {
       "API_ID": {
         "description": "𝐆𝐄𝐓 𝐀𝐏𝐈 𝐈𝐃 𝐅𝐑𝐎𝐌 https://my.telegram.org",
-        "value": "21354902",
+        "value": "",
         "required": true
       },
       "API_HASH": {
         "description": "𝐆𝐄𝐓 𝐀𝐏𝐈 𝐇𝐀𝐒𝐇 𝐅𝐑𝐎𝐌 https://my.telegram.org",
-        "value": "615f09532b468267e4c3e46ac03e0373",
+        "value": "",
         "required": true
       },
       "BOT_TOKEN": {
         "description": "𝐆𝐄𝐓 𝐁𝐎𝐓 𝐓𝐎𝐊𝐄𝐍 𝐅𝐑𝐎𝐌 𝐁𝐎𝐓 𝐅𝐀𝐓𝐇𝐄𝐑",
-        "value": "5981079437:AAG7APlRlA86M6VRjpxoCmNTxWLBfFrhmCs",
+        "value": "",
         "required": true
       },
       "MONGO_DB_URI": {
@@ -39,12 +39,12 @@
       },
       "STRING_SESSION": {
         "description": "𝐅𝐈𝐋𝐋 𝐇𝐄𝐑𝐄 𝐀 𝐒𝐈𝐌𝐏𝐋𝐄 𝐏𝐘𝐑𝐎𝐆𝐑𝐀𝐌 𝐒𝐓𝐑𝐈𝐍𝐆 𝐒𝐄𝐒𝐒𝐈𝐎𝐍, 𝐈𝐅 𝐄𝐑𝐑𝐎𝐑 𝐓𝐇𝐄𝐍 𝐒𝐄𝐍𝐃 𝐄𝐑𝐑𝐎𝐑 𝐒𝐒 𝐓𝐎 𝐑𝐄𝐏𝐎 𝐎𝐖𝐍𝐄𝐑.( 𝐆𝐄𝐓 𝐅𝐑𝐎𝐌 = t.me/VIP_STRING_ROBOT ) . ",
-        "value": "BQBThAR0uml1QevGyi-NLMZalq7CNFLk-xpnFTSUIJ7amLfnLnOCf_qooFENeKEzgC7tyPh3Qzu084IxD5h-EkY14MpI2qtwl68UvHOP97glU7QLHjP3zQIvSKJjGDmKYIeolj-W3n-mHDKF9USrE9Vdejo2pB23w1p7gv4WZG_HJmUDK56lJGItAbkqFpgU7Rn7X1rcEaMGIPfSWUit9tRf-hw_AXyt62buIRwLHb3f9pgZOugW_tGBsNiOnlQCD8yCQsW1BNT0FgSl70pkZmMN_6_NavG0nmwVTN9tmPCMVRuOZg20z6cbLweyOT0eA9KoA6nASXMSyniPAqoJAik7AAAAAYPW5lwA",
+        "value": "",
         "required": true
       },
       "HEROKU_API_KEY": {
         "description": "𝐅𝐈𝐋𝐋 𝐇𝐄𝐑𝐄 𝐘𝐎𝐔𝐑 𝐇𝐄𝐑𝐎𝐊𝐔 𝐀𝐂𝐂. 𝐀𝐏𝐈 𝐊𝐄𝐘, 𝐈𝐅 𝐃𝐎𝐍𝐓 𝐊𝐍𝐎𝐖 𝐓𝐇𝐈𝐒 𝐓𝐇𝐄𝐍 𝐋𝐄𝐀𝐕𝐄 𝐓𝐇𝐈𝐒 𝐋𝐈𝐍𝐄 𝐁𝐋𝐀𝐍𝐊",
-        "value": "f1fb6dc3-200c-42ad-b51b-577385e3ead1",
+        "value": "",
         "required": true
       },
       "HEROKU_APP_NAME": {
@@ -56,7 +56,7 @@
 
        "description": "𝐅𝐈𝐋𝐋 𝐇𝐄𝐑𝐄 𝐘𝐎𝐔𝐑 𝐆𝐑𝐎𝐔𝐏 𝐔𝐒𝐄𝐑𝐍𝐀𝐌𝐄 ( 𝗪𝗜𝗧𝗛𝗢𝗨𝗧 @ ) , {𝐈𝐅 𝐆𝐑𝐎𝐔𝐏 𝐈𝐒 𝐏𝐑𝐈𝐕𝐀𝐓𝐄 𝐓𝐇𝐄𝐍 𝐅𝐈𝐋𝐋 𝐀𝐅𝐓𝐄𝐑 (https://t.me/) 𝐏𝐚𝐫𝐭𝐬, 𝐋𝐢𝐤𝐞+85vaorE-w8VkYTBl) ",
 
-       "value": "https://t.me/XD_SUPORT",
+       "value": "https://t.me/XD_CHATING",
 
        "required": true
 
@@ -65,14 +65,14 @@
 
        "description": "𝐅𝐈𝐋𝐋 𝐇𝐄𝐑𝐄 𝐘𝐎𝐔𝐑 𝐂𝐇𝐀𝐍𝐍𝐄𝐋 𝐔𝐒𝐄𝐑𝐍𝐀𝐌𝐄 ( 𝗪𝗜𝗧𝗛𝗢𝗨𝗧 @ ), { 𝐈𝐅 𝐂𝐇𝐀𝐍𝐍𝐄𝐋 𝐈𝐒 𝐏𝐑𝐈𝐕𝐀𝐓𝐄 𝐓𝐇𝐄𝐍 𝐅𝐈𝐋𝐋 𝐀𝐅𝐓𝐄𝐑 (https://t.me/) 𝐏𝐚𝐫𝐭𝐬, 𝐋𝐢𝐤𝐞:- (+85vaorE-w8VkYTBl). ",
 
-       "value": "https://t.me/XD_BOTSS",
+       "value": "https://t.me/XD_NETWORKS",
 
        "required": true
 
       },
       "START_IMG_URL": {
         "description": "𝐅𝐈𝐋𝐋 𝐇𝐄𝐑𝐄 𝐘𝐎𝐔𝐑 𝐒𝐓𝐀𝐑𝐓 𝐁𝐎𝐓 𝐈𝐌𝐀𝐆𝐄 𝐔𝐑𝐋, 𝐆𝐄𝐓 𝐈𝐓 𝐅𝐑𝐎𝐌 ;- t.me/vTelegraphBot",
-        "value": "https://graph.org/file/12920ccce6f3ccb9f8cef.jpg",
+        "value": "https://graph.org/file/a4f8699664cab11fc0888.jpg",
         "required": true
       },
       "LOG_GROUP_ID": {
