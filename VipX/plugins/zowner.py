@@ -45,7 +45,7 @@ GBAN_COMMAND = get_command("GBAN_COMMAND")
     & ~filters.edited & filters.group & ~filters.edited)
 async def help(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://graph.org/file/90c3458d31d6fe50567f6.jpg",
+        photo=f"https://graph.org/file/ddda07c2e693130746079.jpg",
         caption=f"""🍁ᴄʟɪᴄᴋ ᴛʜᴇ ʙᴇʟᴏᴡ ʙᴜᴛᴛᴏɴ ᴛᴏ ᴄᴏɴᴛᴇᴄᴛ ᴏᴡɴᴇʀ🍁""",
         reply_markup=InlineKeyboardMarkup(
             [
@@ -63,7 +63,7 @@ async def help(client: Client, message: Message):
     & ~filters.edited & filters.private & ~filters.edited)
 async def help(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://graph.org/file/90c3458d31d6fe50567f6.jpg",
+        photo=f"https://graph.org/file/db758905c11768d49f8ee.jpg",
         caption=f"""**◈ 𝐓𝙷𝙸𝚂 𝐂𝙾𝙼𝙼𝙰𝙽𝙳 𝐈𝚂 𝐎𝙽𝙻𝚈 𝐅𝙾𝚁 𝐒𝚄𝙳𝙾 𝐔𝚂𝙴𝚁𝚂 𝐁𝙰𝙱𝚈..**""",
         reply_markup=InlineKeyboardMarkup(
             [
@@ -81,7 +81,7 @@ async def help(client: Client, message: Message):
     & ~filters.edited & filters.group & ~filters.edited)
 async def help(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://graph.org/file/90c3458d31d6fe50567f6.jpg",
+        photo=f"https://graph.org/file/97ec679cd7e3e146cd230.jpg",
         caption=f"""**◈ 𝐓𝙷𝙸𝚂 𝐂𝙾𝙼𝙼𝙰𝙽𝙳 𝐈𝚂 𝐎𝙽𝙻𝚈 𝐅𝙾𝚁 𝐒𝚄𝙳𝙾 𝐔𝚂𝙴𝚁𝚂 𝐁𝙰𝙱𝚈..**""",
         reply_markup=InlineKeyboardMarkup(
             [
@@ -140,7 +140,7 @@ async def help(client: Client, message: Message):
     & ~filters.edited & filters.group & ~filters.edited)
 async def help(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://graph.org/file/471f5efc4676676c469b8.jpg",
+        photo=f"https://graph.org/file/ddda07c2e693130746079.jpg",
         caption=f"""🍁ᴄʟɪᴄᴋ ʙᴇʟᴏᴡ ʙᴜᴛᴛᴏɴ ᴛᴏ ɢᴇᴛ ʀᴇᴘᴏ🍁""",
         reply_markup=InlineKeyboardMarkup(
             [
@@ -158,7 +158,7 @@ async def help(client: Client, message: Message):
     & ~filters.edited & filters.private & ~filters.edited)
 async def help(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://graph.org/file/471f5efc4676676c469b8.jpg",
+        photo=f"https://graph.org/file/ddda07c2e693130746079.jpg",
         caption=f"""🍁ᴄʟɪᴄᴋ ʙᴇʟᴏᴡ ʙᴜᴛᴛᴏɴ ᴛᴏ ɢᴇᴛ ʀᴇᴘᴏ🍁""",
         reply_markup=InlineKeyboardMarkup(
             [
@@ -178,7 +178,7 @@ async def help(client: Client, message: Message):
     & ~filters.edited & filters.private & ~filters.edited)
 async def help(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://graph.org/file/471f5efc4676676c469b8.jpg",
+        photo=f"https://graph.org/file/a4f8699664cab11fc0888.jpg",
         caption=f"""**◈ 𝐓𝙷𝙸𝚂 𝐂𝙾𝙼𝙼𝙰𝙽𝙳 𝐔𝚂𝙴 𝐈𝙽 𝐎𝙽𝙻𝚈 𝐆𝚁𝙾𝚄𝙿𝚂 𝐁𝙰𝙱𝚈 **\n**◈ 𝐆𝙾 𝐓𝙾 𝐆𝚁𝙾𝚄𝙿𝚂/𝐀𝙳𝙳 𝐌𝙴 𝐈𝙽 𝐆𝚁𝙾𝚄𝙿𝚂 𝐀𝙽𝙳 𝐔𝚂𝙴 /play 𝐂𝙾𝙼𝙼𝙰𝙽𝙳.**\n**◈ 𝐓𝙷𝙰𝙽𝙺 𝐔𝙷 𝐁𝙰𝙱𝚈.**""",
         reply_markup=InlineKeyboardMarkup(
             [
