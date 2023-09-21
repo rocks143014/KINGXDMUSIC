@@ -8,11 +8,11 @@ from pyrogram import filters
 load_dotenv()
 
 # Get it from my.telegram.org
-API_ID = int(getenv("API_ID", "21354902"))
-API_HASH = getenv("API_HASH", "615f09532b468267e4c3e46ac03e0373")
+API_ID = int(getenv("API_ID", ""))
+API_HASH = getenv("API_HASH", "")
 
 ## Get it from @Botfather in Telegram.
-BOT_TOKEN = getenv("BOT_TOKEN", "5981079437:AAG7APlRlA86M6VRjpxoCmNTxWLBfFrhmCs")
+BOT_TOKEN = getenv("BOT_TOKEN", "")
 
 # Database to save your chats and stats... Get MongoDB:-  
 MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://Abhiop:Abhiop@cluster0.upnacnf.mongodb.net/?retryWrites=true&w=majority")
@@ -38,8 +38,8 @@ OWNER_ID = list(
     map(int, getenv("OWNER_ID", "6545714937").split())
 )  # Input type must be interger
 
-GROUP_USERNAME = getenv("XD_SUPORT")
-CHANNEL_USERNAME = getenv("XD_BOTSS")
+GROUP_USERNAME = getenv("XD_CHATING")
+CHANNEL_USERNAME = getenv("XD_NETWORKS")
 # Fill your group and channel username (without @)
 # If your group and channel is private then fill like this:-  +GepTJkDUaiA5NmRl  , except (https://t.me/)
 
@@ -64,8 +64,8 @@ UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
 # Only  Links formats are  accepted for this Var value.
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL","https://t.me/XD_BOTSS")
-SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/XD_BOTSS")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL","https://t.me/XD_NETWORKS")
+SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/XD_CHATING")
 SUPPORT_HEHE = SUPPORT_GROUP
 # Set it in True if you want to leave your assistant after a certain amount of time. [Set time via AUTO_LEAVE_ASSISTANT_TIME]
 AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", None)
@@ -99,8 +99,8 @@ TELEGRAM_DOWNLOAD_EDIT_SLEEP = int(getenv("TELEGRAM_EDIT_SLEEP", "5"))
 GITHUB_REPO = getenv("GITHUB_REPO", "https://t.me/N91Ab/6")
 
 # Spotify Client.. Get it from https://developer.spotify.com/dashboard
-SPOTIFY_CLIENT_ID = getenv("SPOTIFY_CLIENT_ID", "19609edb1b9f4ed7be0c8c1342039362")
-SPOTIFY_CLIENT_SECRET = getenv("SPOTIFY_CLIENT_SECRET", "409e31d3ddd64af08cfcc3b0f064fcbe")
+SPOTIFY_CLIENT_ID = getenv("SPOTIFY_CLIENT_ID", "d42345c23b204f05a8495809545a640b")
+SPOTIFY_CLIENT_SECRET = getenv("SPOTIFY_CLIENT_SECRET", "01f2f6b75c004ef0a0d1c73139ec97d2")
 
 # Maximum number of video calls allowed on bot. You can later set it via /set_video_limit on telegram
 VIDEO_STREAM_LIMIT = int(getenv("VIDEO_STREAM_LIMIT", "30"))
@@ -139,16 +139,9 @@ STRING2 = getenv("STRING_SESSION2", None)
 STRING3 = getenv("STRING_SESSION3", None)
 STRING4 = getenv("STRING_SESSION4", None)
 STRING5 = getenv("STRING_SESSION5", None)
+   
 
-#    __      _______ _____    ___  __ _    _  _____ _____ _____   _____   ____ _______ 
-#    \ \    / /_   _|  __ \   |  \/  | |  | |/ ____|_   _/ ____|  |  _ \ / __ \__   __|
-#     \ \  / /  | | | |__) |  | \  / | |  | | (___   | || |       | |_) | |  | | | |   
-#      \ \/ /   | | |  ___/   | |\/| | |  | |\___ \  | || |       |  _ <| |  | | | |   
-#       \  /   _| |_| |       | |  | | |__| |____) |_| || |____   | |_) | |__| | | |   
-#        \/   |_____|_|       |_|  |_|\____/|_____/|_____\_____|  |____/ \____/  |_|   
-
-                                                                                 
-
+                                                                            
                                                                                  
 
 ### DONT TOUCH or EDIT codes after this line
@@ -166,7 +159,7 @@ autoclean = []
 
 
 # Images
-START_IMG_URL = getenv("START_IMG_URL", "https://graph.org/file/12920ccce6f3ccb9f8cef.jpg")
+START_IMG_URL = getenv("START_IMG_URL", "https://graph.org/file/5f392a35a098da04995e1.jpg")
 
 PING_IMG_URL = getenv(
     "PING_IMG_URL",
